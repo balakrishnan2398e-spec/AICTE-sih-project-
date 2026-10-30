@@ -1,0 +1,6 @@
+{
+  "name": "AICTE Complaint Monitoring & Overlap Dashboard",
+  "description": "Centralized AI-powered monitoring dashboard to track grievances, manage multi-bureau workflows (RB, PGRC), and prevent duplicate overlapping investigations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
